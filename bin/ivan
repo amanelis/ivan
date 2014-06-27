@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'ivan/cli'
+Ivan::Cli.start
